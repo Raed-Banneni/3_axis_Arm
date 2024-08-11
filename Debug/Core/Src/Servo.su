@@ -1,0 +1,10 @@
+../Core/Src/Servo.c:13:5:Map	24	static
+../Core/Src/Servo.c:19:6:Servo_Write	24	static
+../Core/Src/Servo.c:42:6:Hand_Init	8	static
+../Core/Src/Servo.c:60:6:Mvt_Test	16	static
+../Core/Src/Servo.c:94:6:Mv_Left	8	static
+../Core/Src/Servo.c:103:6:Mv_Right	8	static
+../Core/Src/Servo.c:111:6:Start_PWM	16	static
+../Core/Src/Servo.c:132:6:Stop_All	8	static
+../Core/Src/Servo.c:140:6:Start_All	8	static
+../Core/Src/Servo.c:148:6:Stop_PWM	16	static
